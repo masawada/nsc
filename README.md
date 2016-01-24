@@ -36,7 +36,7 @@ $ be ruby client.rb -p /path/to/file bucket-name
 
 ### オブジェクトのダウンロード
 ```
-$ be ruby client.rb -p bucket-name/object-key /path/to/file
+$ be ruby client.rb -f bucket-name/object-key /path/to/file
 ```
 
 ### バケット/オブジェクトのリスト
